@@ -14,5 +14,5 @@ equal_to = a==b
 
 
 
-print("Sum:",sum,"Division:",division,"\n\nIs a greater than b?:",greater_than,"\n\nAre a and b equal?:",equal_to,"\n\nLogical AND:",b>a and a!=b,"\n\nLogical OR:",a!=b or a>b)
+print("Sum:",sum,"Division:",division,"\n\nIs a greater than b?:",greater_than,"\n\nAre a and b equal?:",equal_to,"\n\nLogical AND:",a>b and a!=b,"\n\nLogical OR:",a!=b or a>b)
 
