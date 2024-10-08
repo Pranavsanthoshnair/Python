@@ -1,6 +1,6 @@
-num1 = int(input("Enter first number :"))
-num2 = int(input("Enter second number :"))
-num3 = int(input("Enter third number :"))
+num1 = float(input("Enter first number :"))
+num2 = float(input("Enter second number :"))
+num3 = float(input("Enter third number :"))
 
 addition = num1 + num2
 subtraction = num1 - num2
