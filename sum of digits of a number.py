@@ -6,4 +6,4 @@ while(num>0):
     rem = num % 10
     num //= 10
     sum = sum + rem
-print(sum)
+print("The sum of the digits of the number is",sum)
