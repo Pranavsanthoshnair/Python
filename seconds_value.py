@@ -1,5 +1,5 @@
 """
-Python program that calculates the grade based on the score entered by the user
+Python program that calculates the total no of seconds based on days,hours,minutes and seconds inputted by user
 Author - Pranav S Nair
 Date - 09-10-2024
 """
