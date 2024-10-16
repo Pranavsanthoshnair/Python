@@ -1,5 +1,5 @@
 """
-A Python program that prints odd numbers upto n(specified by user
+A Python program that prints odd numbers upto n(specified by user)
 Author - Pranav S Nair
 Date - 15/10/2024
 """
