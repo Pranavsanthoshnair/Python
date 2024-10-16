@@ -1,3 +1,9 @@
+"""
+A Python program that finds the greatest of two numbers inputed by user
+Author - Pranav S Nair
+Date - 15/10/2024
+"""
+
 num1 = float(input("Enter first number : "))
 num2 = float(input("Enter second number : "))
 
