@@ -1,3 +1,10 @@
+"""
+A Python program that calculates the grade according to the square entered by the user
+Author - Pranav S Nair
+Date - 15/10/2024
+"""
+
+
 score = float(input("Enter your score : "))
 
 if(score >= 90):
