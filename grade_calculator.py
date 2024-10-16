@@ -1,5 +1,5 @@
 """
-A Python program that calculates the grade according to the square entered by the user
+A Python program that calculates the grade according to the score entered by the user
 Author - Pranav S Nair
 Date - 15/10/2024
 """
