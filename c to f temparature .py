@@ -1,3 +1,8 @@
+"""
+Pranav S Nair
+22/10/2024
+A Python program that determines the temparature back and forth between Celsius and Fahrenheit.
+"""
 temp = float(input("Enter Temparature : "))
 scale = input("Enter if the temparature is in celsius(C) or fahrenheit(F) : ")
 f_to_c = (5/9)*(temp-32)
