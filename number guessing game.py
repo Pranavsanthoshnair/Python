@@ -1,10 +1,14 @@
 """
 Author - Pranav S Nair
 Date - 14/11/2024
-Purpose - A python program of a number guessing game"""
+Purpose - A python program of a number guessing game
+"""
+
 import random
+
 guess = random.randint(1,100)
 no_of_tries = 0
+
 while True:
     no_of_tries += 1
     num = int(input("Enter any number from 1 to 100: "))
